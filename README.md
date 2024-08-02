@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently working on Office Of The Naval Comptroller :ONC
+I’m currently working on Office Of The Naval Comptroller :[ONC](http://www.oncblog.navy.mi.th/)
 I create blog posts and open source packages mainly about python and django framework.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [onc-team-dev](https://sites.google.com/view/onc-team-dev/home)).  If you found value in something I have created, please feel free to send a [TIP](https://buymeacoffee.com/oncx.web), give me a shout out [@OncWeb](https://x.com/OncxWeb)), give some ♥ on [DEV.to/onc exchange](https://dev.to/oncx_web), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
 <!--
 **oncx-web/oncx-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
